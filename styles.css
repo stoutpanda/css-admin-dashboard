@@ -347,4 +347,16 @@
   [hidden] {
     display: none;
   }
+
   
+/* Site styles begin below this line */
+
+::root {
+    /* CSS Color Scheme*/
+--dark-olive-green: #606c38ff;
+--kombu-green: #283618ff;
+--cornsilk: #fefae0ff;
+--earth-yellow: #dda15eff;
+--liver-dogs: #bc6c25ff;
+
+}
